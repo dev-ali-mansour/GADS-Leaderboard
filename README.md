@@ -2,6 +2,7 @@
 
 Google Africa Developer Scholarship Phase II
 
+![Screenshot_1599426917](https://raw.githubusercontent.com/dev-ali-mansour/GADS_Leaderboard/master/All%20Screens.png)
 
 ## Description
 
