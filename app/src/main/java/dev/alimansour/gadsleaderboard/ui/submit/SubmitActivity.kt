@@ -69,7 +69,7 @@ class SubmitActivity : AppCompatActivity() {
             finish()
         }
 
-        binding.button.setOnClickListener {
+        binding.btnSubmit.setOnClickListener {
             hideKeyboard(binding.root)
             viewModel.submit()
         }
